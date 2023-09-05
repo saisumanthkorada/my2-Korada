@@ -11,3 +11,7 @@ I like Newyork because I have lots of friends over there. It has advanced buldin
 2. Niagara : The stunning waterfalls is a must see natural wonder which has different activities which elevates the beauty.
 3. The Hudson valley : It consists beautiful landscapes, lakes which attracts our eyesight.
 
+**List of dishes of food that i can get at vacation spot**
+- In New York we have famous croissants.
+- Chicken over rice.
+- New York Cheesecake.
