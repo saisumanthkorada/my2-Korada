@@ -17,3 +17,17 @@ I like Newyork because I have lots of friends over there. It has advanced buldin
 - New York Cheesecake.
 
 **[Click here to find more about me ](MyStats.md)**
+
+----
+# Sports I would recommend to play
+The below table shows information about my recommended  sports and time spents on each sport.
+
+| Sport Name         | Reason      | Average Hours spent on each sport |
+|--------------------|---------------------------------------------------------|--------------|
+| Badminton             | Great for fitness and social interaction. | 5-7 hours    |
+| Cricket            | Helps to tune our brain by creating strategies  and staying active. | 2-3 hours   |
+| Basketball         | Team sport that improves coordination and endurance.    | 3-4hours    |
+| Squash    | Team sport helps to enhance agility and concentration | 2-3 hours
+
+
+
