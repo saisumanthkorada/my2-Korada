@@ -15,3 +15,5 @@ I like Newyork because I have lots of friends over there. It has advanced buldin
 - In New York we have famous croissants.
 - Chicken over rice.
 - New York Cheesecake.
+
+**[Click here to find more about me ](MyStats.md)**
