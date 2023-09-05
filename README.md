@@ -29,5 +29,10 @@ The below table shows information about my recommended  sports and time spents o
 | Basketball         | Team sport that improves coordination and endurance.    | 3-4hours    |
 | Squash    | Team sport helps to enhance agility and concentration | 2-3 hours
 
-
+---
+## Quotes by favorite scentists
+> * "If you fail, never give up because FAIL means "First Attempt In Learning" ."
+>> ***APJ Abdul Kalam***
+> * "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us ".
+>> ***Alexander Graham Bell***
 
