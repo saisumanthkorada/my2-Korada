@@ -36,3 +36,14 @@ The below table shows information about my recommended  sports and time spents o
 > * "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us ".
 >> ***Alexander Graham Bell***
 
+---
+## Code Fencing
+> PHP - Display a User Gravatar from an Email Address
+>>https://css-tricks.com/snippets/php/display-a-user-gravatar-from-email-address/
+~~~
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+~~~
+***[Quick link for snippet source](https://css-tricks.com/snippets/php/)***
